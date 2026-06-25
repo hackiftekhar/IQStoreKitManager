@@ -6,7 +6,7 @@
         "tag": "1.0.0"
     },
     "summary": "StoreKit Manager",
-    "description": "This contains StoreKit relatted functions.",
+    "description": "This contains StoreKit related functions.",
     "homepage": "https://github.com/hackiftekhar/IQStoreKitManager",
     "screenshots": "https://raw.githubusercontent.com/hackiftekhar/IQStoreKitManager/master/Screenshot/IQStoreKitManagerScreenshot.png",
     "license": {
